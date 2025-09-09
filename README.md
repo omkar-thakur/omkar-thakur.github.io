@@ -1,2 +1,1 @@
-title: blog
-description: hello everyone
+# omkar-thakur.github.io
