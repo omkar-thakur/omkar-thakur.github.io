@@ -1,1 +1,1 @@
-# omkar-thakur.github.io
+# LAW
