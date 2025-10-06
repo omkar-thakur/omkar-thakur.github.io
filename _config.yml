@@ -1,21 +1,3 @@
-title: "omkar – Law Student"
-description: "Thoughts on law, legal research, and my professional journey."
-baseurl: "" # leave empty for <username>.github.io
-url: "https://<your-username>.github.io"
-markdown: kramdown
-theme: minimal-mistakes-jekyll
-
-# Navigation bar – adjust order as you like
-header_pages:
-  - index.md
-  - blog.md
-  - cv.md
-  - contact.md
-
-# Author info (appears on posts & sidebar)
-author:
-  name: "Omkar"
-  avatar: "/assets/images/avatar.jpg"
-  bio: "LL.B. candidate, University of XYZ, interested in constitutional law and human rights."
-  location: "City, Country"
-  email: "you@example.com"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
